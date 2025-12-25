@@ -1,0 +1,3 @@
+# Physics Informed Neuronal Networks (PINN)
+
+El objetivo de este repositorio es colocar notebooks/scripts/papers que me permita documentar mis hallazgos con respecto a este tema, principalmente para resolver problemas fisicos. Sin un objetivo más claro que el anterior descrito, el repositorio está organizado en...
